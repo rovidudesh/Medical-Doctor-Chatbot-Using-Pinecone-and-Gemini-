@@ -8,3 +8,4 @@ langchain-pinecone    #for langchain-pinecone integration
 langchain_community    #for community tools
 langchain_experimental   #for experimental features
 langchain_google_genai    #for Google GenAI integration LLM
+-e .   #for local development
