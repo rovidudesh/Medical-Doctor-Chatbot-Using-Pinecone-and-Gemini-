@@ -1,0 +1,10 @@
+sentence-transformers  #for embedding model
+langchain  #for langchain library
+flask   #for web framework
+pypdf   #for pdf parsing
+python-dotenv   #for environment variables
+pinecone[grpc]    #for vector database
+langchain-pinecone    #for langchain-pinecone integration
+langchain_community    #for community tools
+langchain_experimental   #for experimental features
+langchain_google_genai    #for Google GenAI integration LLM
